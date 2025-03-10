@@ -1,0 +1,501 @@
+Equipment ID,Equipment Type,Department,Usage Hours,Maintenance Required (Yes/No),Downtime (Hours),Downtime Cause,Last Maintenance Date
+EQ-0001,X-Ray Machine,Emergency,59.9,Yes,9.4,Scheduled Maintenance,2023-05-19
+EQ-0002,Defibrillator,ICU,239.2,Yes,11.9,Power Outage,2023-08-06
+EQ-0003,CT Scanner,Surgery,143.4,No,3.4,Power Outage,2023-11-15
+EQ-0004,Defibrillator,Cardiology,61.6,Yes,2.8,Operator Error,2023-03-18
+EQ-0005,MRI Machine,ICU,174.3,Yes,2.2,Operator Error,2023-01-31
+EQ-0006,MRI Machine,Cardiology,114.9,No,5.6,Unknown,2023-02-18
+EQ-0007,Defibrillator,Emergency,288.4,No,13.6,Mechanical Failure,2023-07-03
+EQ-0008,Defibrillator,Radiology,243.2,No,8.5,Operator Error,2023-12-19
+EQ-0009,X-Ray Machine,OBGYN,261.1,Yes,4.3,Unknown,2023-10-16
+EQ-0010,X-Ray Machine,Emergency,120.2,Yes,14.9,Operator Error,2023-07-07
+EQ-0011,Ultrasound,OBGYN,232.4,No,1.0,Mechanical Failure,2023-01-12
+EQ-0012,Ventilator,Emergency,187.6,Yes,5.6,Scheduled Maintenance,2023-03-11
+EQ-0013,Ultrasound,Cardiology,55.6,No,11.4,Mechanical Failure,2023-06-16
+EQ-0014,MRI Machine,OBGYN,217.0,No,10.2,Scheduled Maintenance,2023-11-08
+EQ-0015,Ultrasound,Emergency,54.6,Yes,0.3,Power Outage,2023-07-23
+EQ-0016,MRI Machine,ICU,210.5,No,2.0,Mechanical Failure,2023-07-12
+EQ-0017,CT Scanner,Surgery,296.1,Yes,13.4,Scheduled Maintenance,2023-02-06
+EQ-0018,Defibrillator,Emergency,237.4,No,3.2,Unknown,2023-02-20
+EQ-0019,MRI Machine,Cardiology,126.9,No,6.0,Mechanical Failure,2023-05-21
+EQ-0020,Defibrillator,Emergency,102.4,Yes,5.0,Unknown,2023-09-19
+EQ-0021,MRI Machine,Surgery,236.4,No,13.1,Mechanical Failure,2023-06-02
+EQ-0022,Ventilator,ICU,180.8,Yes,13.5,Power Outage,2023-02-04
+EQ-0023,MRI Machine,Emergency,266.0,No,13.1,Mechanical Failure,2023-07-26
+EQ-0024,X-Ray Machine,ICU,56.0,Yes,9.3,Operator Error,2023-01-12
+EQ-0025,Ventilator,Surgery,118.4,Yes,3.5,Power Outage,2023-07-21
+EQ-0026,CT Scanner,OBGYN,286.6,Yes,0.6,Power Outage,2023-11-20
+EQ-0027,Defibrillator,ICU,165.1,No,8.2,Power Outage,2023-11-24
+EQ-0028,Defibrillator,OBGYN,142.5,No,14.2,Power Outage,2023-04-23
+EQ-0029,CT Scanner,ICU,156.0,Yes,9.8,Scheduled Maintenance,2023-07-22
+EQ-0030,X-Ray Machine,Emergency,137.7,Yes,6.1,Power Outage,2023-01-09
+EQ-0031,CT Scanner,ICU,270.1,Yes,6.1,Mechanical Failure,2023-07-29
+EQ-0032,Ventilator,Surgery,169.8,No,13.0,Mechanical Failure,2023-03-03
+EQ-0033,Defibrillator,ICU,267.2,No,5.2,Power Outage,2023-05-03
+EQ-0034,Ventilator,Surgery,63.7,No,0.8,Operator Error,2023-12-27
+EQ-0035,MRI Machine,Surgery,148.9,No,4.5,Mechanical Failure,2023-03-06
+EQ-0036,X-Ray Machine,Emergency,275.3,No,0.4,Scheduled Maintenance,2023-10-08
+EQ-0037,Ultrasound,Cardiology,204.4,No,9.4,Operator Error,2023-01-22
+EQ-0038,Defibrillator,Emergency,167.5,No,2.9,Operator Error,2023-09-06
+EQ-0039,X-Ray Machine,OBGYN,126.6,No,10.4,Scheduled Maintenance,2023-06-10
+EQ-0040,Ventilator,Cardiology,235.4,No,8.0,Unknown,2023-11-22
+EQ-0041,Ventilator,ICU,181.4,Yes,14.2,Mechanical Failure,2023-03-15
+EQ-0042,Ventilator,ICU,272.9,No,3.9,Scheduled Maintenance,2023-02-28
+EQ-0043,Ultrasound,Radiology,269.2,Yes,9.3,Mechanical Failure,2023-05-15
+EQ-0044,Ultrasound,Emergency,299.5,No,9.9,Operator Error,2023-03-30
+EQ-0045,Ultrasound,OBGYN,54.8,Yes,14.3,Power Outage,2023-03-16
+EQ-0046,Defibrillator,Surgery,138.4,Yes,13.7,Scheduled Maintenance,2023-12-04
+EQ-0047,Ultrasound,Radiology,115.0,Yes,5.5,Operator Error,2023-09-14
+EQ-0048,Ventilator,Surgery,249.5,No,3.0,Mechanical Failure,2023-11-02
+EQ-0049,Ventilator,OBGYN,176.5,No,3.9,Mechanical Failure,2023-02-09
+EQ-0050,CT Scanner,Emergency,98.0,Yes,9.9,Unknown,2023-05-05
+EQ-0051,Ventilator,Surgery,208.2,Yes,12.2,Scheduled Maintenance,2023-11-27
+EQ-0052,MRI Machine,Surgery,220.4,Yes,12.1,Unknown,2023-09-18
+EQ-0053,X-Ray Machine,Radiology,56.3,Yes,4.7,Unknown,2023-01-14
+EQ-0054,Ultrasound,Surgery,247.7,No,8.4,Scheduled Maintenance,2023-08-30
+EQ-0055,MRI Machine,Cardiology,229.7,No,2.2,Power Outage,2023-03-04
+EQ-0056,Defibrillator,Emergency,86.7,No,4.8,Mechanical Failure,2023-01-16
+EQ-0057,X-Ray Machine,ICU,173.7,Yes,5.5,Unknown,2023-10-03
+EQ-0058,CT Scanner,Surgery,232.7,No,8.1,Operator Error,2023-04-30
+EQ-0059,Ultrasound,Surgery,248.9,Yes,2.2,Operator Error,2023-05-24
+EQ-0060,Ultrasound,OBGYN,103.3,Yes,2.6,Power Outage,2023-02-25
+EQ-0061,X-Ray Machine,Radiology,241.4,No,2.4,Scheduled Maintenance,2023-09-28
+EQ-0062,Defibrillator,OBGYN,283.1,Yes,8.1,Mechanical Failure,2023-07-17
+EQ-0063,Ultrasound,ICU,169.9,Yes,10.0,Power Outage,2023-04-18
+EQ-0064,CT Scanner,Surgery,186.9,No,14.7,Operator Error,2023-04-05
+EQ-0065,X-Ray Machine,ICU,281.3,Yes,9.7,Mechanical Failure,2023-07-19
+EQ-0066,Ultrasound,Surgery,231.7,No,10.6,Scheduled Maintenance,2023-03-27
+EQ-0067,Ventilator,Surgery,102.5,No,9.8,Mechanical Failure,2023-06-26
+EQ-0068,MRI Machine,Emergency,117.2,Yes,6.8,Operator Error,2023-02-11
+EQ-0069,Ultrasound,Surgery,57.6,No,12.0,Scheduled Maintenance,2023-01-04
+EQ-0070,Ventilator,Surgery,84.1,Yes,5.8,Mechanical Failure,2023-09-21
+EQ-0071,CT Scanner,Emergency,61.3,Yes,12.6,Power Outage,2023-12-14
+EQ-0072,Ventilator,ICU,55.7,No,1.5,Scheduled Maintenance,2023-09-22
+EQ-0073,X-Ray Machine,Surgery,272.4,No,14.0,Scheduled Maintenance,2023-06-06
+EQ-0074,Ventilator,OBGYN,133.9,Yes,0.8,Mechanical Failure,2023-11-24
+EQ-0075,X-Ray Machine,ICU,118.8,No,9.7,Scheduled Maintenance,2023-02-21
+EQ-0076,MRI Machine,Surgery,254.5,Yes,6.6,Power Outage,2023-01-29
+EQ-0077,Ventilator,OBGYN,286.2,No,2.9,Scheduled Maintenance,2023-10-08
+EQ-0078,Defibrillator,Cardiology,270.6,No,13.3,Unknown,2023-06-15
+EQ-0079,Ventilator,ICU,83.7,No,14.7,Unknown,2023-03-19
+EQ-0080,Ventilator,Cardiology,151.9,Yes,8.7,Unknown,2023-09-03
+EQ-0081,Defibrillator,Emergency,212.5,No,11.3,Operator Error,2023-04-15
+EQ-0082,MRI Machine,Emergency,228.8,No,0.1,Operator Error,2023-11-10
+EQ-0083,Defibrillator,Emergency,279.9,Yes,4.8,Scheduled Maintenance,2023-05-11
+EQ-0084,Defibrillator,Emergency,212.4,Yes,0.1,Power Outage,2023-08-29
+EQ-0085,MRI Machine,Emergency,227.8,Yes,5.5,Power Outage,2023-11-21
+EQ-0086,X-Ray Machine,Surgery,63.8,No,7.7,Unknown,2023-11-13
+EQ-0087,Ventilator,Emergency,223.1,Yes,8.3,Power Outage,2023-10-03
+EQ-0088,Ultrasound,Surgery,267.5,No,12.6,Unknown,2023-05-02
+EQ-0089,CT Scanner,Emergency,100.5,Yes,4.3,Operator Error,2023-12-22
+EQ-0090,CT Scanner,Emergency,73.2,No,6.1,Operator Error,2023-10-01
+EQ-0091,X-Ray Machine,Radiology,198.7,Yes,8.0,Scheduled Maintenance,2023-06-10
+EQ-0092,MRI Machine,Cardiology,196.0,Yes,6.2,Scheduled Maintenance,2023-03-10
+EQ-0093,Ultrasound,Cardiology,290.8,Yes,0.7,Mechanical Failure,2023-02-05
+EQ-0094,Ventilator,Surgery,111.6,Yes,11.4,Operator Error,2023-12-29
+EQ-0095,CT Scanner,Radiology,297.0,Yes,1.1,Operator Error,2023-12-16
+EQ-0096,MRI Machine,Surgery,295.7,No,1.4,Mechanical Failure,2023-02-26
+EQ-0097,Ventilator,Cardiology,236.7,No,8.8,Scheduled Maintenance,2023-06-04
+EQ-0098,Ultrasound,Emergency,151.1,Yes,11.4,Power Outage,2023-04-24
+EQ-0099,Defibrillator,Radiology,94.0,No,5.5,Mechanical Failure,2023-12-20
+EQ-0100,Defibrillator,Surgery,174.1,No,13.3,Mechanical Failure,2023-04-27
+EQ-0101,X-Ray Machine,Radiology,183.2,No,2.6,Mechanical Failure,2023-03-04
+EQ-0102,X-Ray Machine,Emergency,56.7,Yes,1.2,Power Outage,2023-03-07
+EQ-0103,Ventilator,Radiology,82.2,Yes,5.1,Scheduled Maintenance,2023-08-04
+EQ-0104,X-Ray Machine,Emergency,59.9,Yes,8.8,Scheduled Maintenance,2023-11-21
+EQ-0105,Defibrillator,OBGYN,74.2,Yes,11.1,Operator Error,2023-01-15
+EQ-0106,Defibrillator,Cardiology,269.4,No,5.0,Power Outage,2023-04-12
+EQ-0107,CT Scanner,Cardiology,297.7,Yes,0.3,Power Outage,2023-08-25
+EQ-0108,Ultrasound,ICU,145.3,Yes,12.8,Scheduled Maintenance,2023-07-23
+EQ-0109,CT Scanner,Surgery,137.9,Yes,10.9,Unknown,2023-12-15
+EQ-0110,Ultrasound,Surgery,194.1,Yes,1.7,Power Outage,2023-11-16
+EQ-0111,Ultrasound,Cardiology,203.9,Yes,11.7,Scheduled Maintenance,2023-03-07
+EQ-0112,Ultrasound,OBGYN,218.8,No,9.8,Scheduled Maintenance,2023-03-23
+EQ-0113,CT Scanner,Surgery,109.7,Yes,13.0,Operator Error,2023-05-09
+EQ-0114,Ultrasound,Emergency,59.1,No,8.9,Scheduled Maintenance,2023-03-30
+EQ-0115,Defibrillator,OBGYN,138.1,No,7.3,Unknown,2023-01-25
+EQ-0116,MRI Machine,Surgery,75.5,Yes,1.7,Scheduled Maintenance,2023-06-25
+EQ-0117,X-Ray Machine,Emergency,156.4,Yes,13.4,Mechanical Failure,2023-08-05
+EQ-0118,Defibrillator,Surgery,132.9,No,11.1,Mechanical Failure,2023-10-15
+EQ-0119,MRI Machine,Radiology,246.9,Yes,11.0,Mechanical Failure,2023-06-12
+EQ-0120,MRI Machine,Radiology,243.2,Yes,5.5,Power Outage,2023-07-11
+EQ-0121,Defibrillator,Radiology,290.0,Yes,1.2,Unknown,2023-08-03
+EQ-0122,Ultrasound,Radiology,50.1,No,8.2,Scheduled Maintenance,2023-03-08
+EQ-0123,X-Ray Machine,Cardiology,94.7,No,13.9,Operator Error,2023-05-08
+EQ-0124,Ultrasound,Surgery,254.8,No,3.1,Operator Error,2023-12-06
+EQ-0125,Defibrillator,Emergency,61.7,No,1.3,Operator Error,2023-09-08
+EQ-0126,Ventilator,OBGYN,68.3,No,12.0,Operator Error,2023-08-08
+EQ-0127,X-Ray Machine,ICU,218.5,No,10.7,Operator Error,2023-04-09
+EQ-0128,Ultrasound,ICU,241.5,Yes,2.5,Scheduled Maintenance,2023-07-29
+EQ-0129,Ultrasound,ICU,281.4,Yes,14.6,Unknown,2023-05-31
+EQ-0130,Ventilator,Emergency,136.0,No,12.6,Scheduled Maintenance,2023-07-20
+EQ-0131,Ventilator,Cardiology,129.1,Yes,0.6,Unknown,2023-03-19
+EQ-0132,MRI Machine,OBGYN,211.7,No,5.8,Scheduled Maintenance,2023-10-28
+EQ-0133,Ventilator,Cardiology,55.2,Yes,8.4,Mechanical Failure,2023-12-18
+EQ-0134,Ultrasound,Cardiology,241.5,Yes,2.5,Operator Error,2023-02-03
+EQ-0135,Ultrasound,Cardiology,279.5,Yes,11.7,Mechanical Failure,2023-04-19
+EQ-0136,MRI Machine,OBGYN,212.6,No,13.1,Operator Error,2023-08-15
+EQ-0137,Defibrillator,Emergency,117.8,No,0.5,Unknown,2023-01-29
+EQ-0138,Ultrasound,Cardiology,195.6,No,6.5,Operator Error,2023-12-04
+EQ-0139,Ultrasound,Cardiology,278.2,No,1.1,Operator Error,2023-10-19
+EQ-0140,Ultrasound,Cardiology,257.2,No,7.9,Unknown,2023-02-09
+EQ-0141,Defibrillator,OBGYN,118.2,No,7.1,Unknown,2023-03-16
+EQ-0142,Defibrillator,ICU,231.2,Yes,7.6,Unknown,2023-11-08
+EQ-0143,CT Scanner,Cardiology,252.6,No,11.6,Unknown,2023-03-09
+EQ-0144,CT Scanner,OBGYN,90.1,Yes,7.6,Unknown,2023-12-01
+EQ-0145,MRI Machine,Cardiology,262.1,Yes,6.7,Power Outage,2023-05-09
+EQ-0146,Ventilator,Surgery,111.9,Yes,11.5,Scheduled Maintenance,2023-06-16
+EQ-0147,Ultrasound,Cardiology,101.5,Yes,2.0,Unknown,2023-11-19
+EQ-0148,CT Scanner,Surgery,169.7,No,7.3,Unknown,2023-05-05
+EQ-0149,Ultrasound,Radiology,217.1,No,5.2,Scheduled Maintenance,2023-01-16
+EQ-0150,X-Ray Machine,Radiology,174.3,Yes,3.9,Mechanical Failure,2023-08-24
+EQ-0151,CT Scanner,Surgery,56.6,No,4.5,Mechanical Failure,2023-12-12
+EQ-0152,MRI Machine,Surgery,127.5,Yes,8.4,Mechanical Failure,2023-11-10
+EQ-0153,CT Scanner,Surgery,172.3,Yes,2.4,Power Outage,2023-10-27
+EQ-0154,Defibrillator,Radiology,102.1,Yes,4.1,Operator Error,2023-09-01
+EQ-0155,CT Scanner,Surgery,209.1,No,5.1,Mechanical Failure,2023-12-01
+EQ-0156,Defibrillator,OBGYN,190.7,Yes,9.7,Mechanical Failure,2023-12-28
+EQ-0157,MRI Machine,OBGYN,267.6,Yes,3.6,Power Outage,2023-04-08
+EQ-0158,Ventilator,Surgery,116.3,No,13.7,Scheduled Maintenance,2023-07-05
+EQ-0159,X-Ray Machine,Radiology,264.8,No,10.6,Operator Error,2023-05-05
+EQ-0160,CT Scanner,Emergency,62.2,Yes,4.2,Operator Error,2023-08-26
+EQ-0161,X-Ray Machine,Emergency,226.4,No,1.5,Operator Error,2023-09-12
+EQ-0162,MRI Machine,Emergency,257.7,Yes,0.0,Power Outage,2023-05-16
+EQ-0163,Ultrasound,Radiology,140.5,No,1.9,Mechanical Failure,2023-01-08
+EQ-0164,Defibrillator,Cardiology,135.7,Yes,12.5,Power Outage,2023-02-09
+EQ-0165,X-Ray Machine,Cardiology,55.1,No,12.1,Power Outage,2023-09-12
+EQ-0166,Ultrasound,OBGYN,207.3,No,7.4,Operator Error,2023-09-03
+EQ-0167,Defibrillator,OBGYN,201.4,No,12.0,Scheduled Maintenance,2023-02-16
+EQ-0168,Defibrillator,Radiology,72.6,No,8.0,Mechanical Failure,2023-04-20
+EQ-0169,Ventilator,ICU,196.9,No,8.4,Scheduled Maintenance,2023-07-10
+EQ-0170,Ventilator,OBGYN,191.0,Yes,4.6,Power Outage,2023-06-08
+EQ-0171,Ultrasound,Radiology,194.3,Yes,10.7,Unknown,2023-04-16
+EQ-0172,X-Ray Machine,Cardiology,185.1,Yes,10.3,Operator Error,2023-01-13
+EQ-0173,Defibrillator,Cardiology,257.4,Yes,9.6,Scheduled Maintenance,2023-04-12
+EQ-0174,Ventilator,Emergency,93.9,Yes,9.7,Scheduled Maintenance,2023-03-17
+EQ-0175,Ultrasound,OBGYN,223.8,Yes,2.0,Mechanical Failure,2023-11-14
+EQ-0176,Ventilator,Surgery,282.4,Yes,14.6,Operator Error,2023-05-16
+EQ-0177,Defibrillator,OBGYN,95.4,Yes,5.7,Power Outage,2023-02-26
+EQ-0178,X-Ray Machine,ICU,205.4,Yes,6.7,Mechanical Failure,2023-07-19
+EQ-0179,Ultrasound,Surgery,299.4,Yes,10.4,Operator Error,2023-03-28
+EQ-0180,Ventilator,Surgery,178.1,Yes,5.6,Mechanical Failure,2023-12-12
+EQ-0181,Ultrasound,OBGYN,121.4,No,11.9,Power Outage,2023-02-25
+EQ-0182,Ultrasound,Radiology,245.4,No,1.5,Unknown,2023-03-02
+EQ-0183,X-Ray Machine,Radiology,220.4,No,4.9,Unknown,2023-12-28
+EQ-0184,X-Ray Machine,Cardiology,117.9,Yes,13.8,Mechanical Failure,2023-04-30
+EQ-0185,CT Scanner,ICU,106.2,No,1.0,Operator Error,2023-01-17
+EQ-0186,Defibrillator,Emergency,75.4,No,12.3,Power Outage,2023-01-11
+EQ-0187,X-Ray Machine,Radiology,240.3,No,4.9,Power Outage,2023-12-15
+EQ-0188,Ultrasound,Surgery,242.4,Yes,11.1,Mechanical Failure,2023-03-01
+EQ-0189,X-Ray Machine,Surgery,237.0,No,5.3,Power Outage,2023-06-08
+EQ-0190,CT Scanner,Radiology,187.3,Yes,6.7,Scheduled Maintenance,2023-05-15
+EQ-0191,Ventilator,Cardiology,62.5,Yes,9.2,Mechanical Failure,2023-06-01
+EQ-0192,MRI Machine,Surgery,243.1,No,14.4,Mechanical Failure,2023-04-25
+EQ-0193,X-Ray Machine,Radiology,71.4,Yes,6.1,Power Outage,2023-11-07
+EQ-0194,MRI Machine,Cardiology,165.8,Yes,0.7,Mechanical Failure,2023-12-21
+EQ-0195,CT Scanner,OBGYN,99.4,No,12.5,Unknown,2023-05-19
+EQ-0196,Ultrasound,Emergency,244.9,Yes,3.0,Scheduled Maintenance,2023-12-02
+EQ-0197,MRI Machine,Surgery,176.8,Yes,14.9,Power Outage,2023-05-23
+EQ-0198,X-Ray Machine,Radiology,193.8,No,8.1,Power Outage,2023-05-03
+EQ-0199,Defibrillator,OBGYN,220.9,Yes,11.3,Mechanical Failure,2023-10-09
+EQ-0200,Ventilator,Radiology,139.1,Yes,6.5,Mechanical Failure,2023-02-08
+EQ-0201,Ultrasound,Emergency,190.4,No,2.1,Unknown,2023-03-14
+EQ-0202,MRI Machine,Radiology,260.6,No,9.8,Mechanical Failure,2023-10-29
+EQ-0203,Ventilator,Cardiology,276.7,Yes,10.3,Mechanical Failure,2023-05-21
+EQ-0204,MRI Machine,OBGYN,230.8,Yes,3.4,Power Outage,2023-07-03
+EQ-0205,Ventilator,ICU,82.9,Yes,12.9,Scheduled Maintenance,2023-01-19
+EQ-0206,CT Scanner,Surgery,265.1,Yes,11.2,Operator Error,2023-03-29
+EQ-0207,MRI Machine,Radiology,170.7,No,12.3,Scheduled Maintenance,2023-04-13
+EQ-0208,Ultrasound,ICU,126.2,No,9.9,Operator Error,2023-03-16
+EQ-0209,CT Scanner,Radiology,227.2,No,14.8,Scheduled Maintenance,2023-09-29
+EQ-0210,CT Scanner,Surgery,135.0,No,0.6,Mechanical Failure,2023-03-17
+EQ-0211,Ultrasound,ICU,239.3,No,12.6,Power Outage,2023-06-05
+EQ-0212,Defibrillator,Radiology,142.0,No,3.2,Scheduled Maintenance,2023-04-13
+EQ-0213,Ultrasound,OBGYN,157.7,No,10.5,Power Outage,2023-07-29
+EQ-0214,Ultrasound,Cardiology,298.9,No,7.6,Mechanical Failure,2023-01-10
+EQ-0215,Ventilator,Radiology,254.5,Yes,8.6,Operator Error,2023-04-09
+EQ-0216,CT Scanner,Radiology,165.9,No,0.2,Scheduled Maintenance,2023-03-22
+EQ-0217,Ventilator,Emergency,106.7,Yes,14.0,Operator Error,2023-06-09
+EQ-0218,CT Scanner,Cardiology,84.1,No,6.8,Mechanical Failure,2023-01-11
+EQ-0219,CT Scanner,Emergency,133.2,No,5.8,Operator Error,2023-01-10
+EQ-0220,CT Scanner,OBGYN,123.8,Yes,14.9,Mechanical Failure,2023-11-05
+EQ-0221,Defibrillator,OBGYN,131.8,Yes,11.2,Power Outage,2023-04-15
+EQ-0222,X-Ray Machine,Cardiology,236.2,Yes,12.8,Operator Error,2023-10-14
+EQ-0223,Ventilator,OBGYN,179.7,Yes,12.4,Scheduled Maintenance,2023-03-11
+EQ-0224,Defibrillator,ICU,226.0,Yes,14.6,Power Outage,2023-01-12
+EQ-0225,Ultrasound,Emergency,139.7,No,11.3,Power Outage,2023-09-25
+EQ-0226,CT Scanner,Cardiology,236.9,Yes,3.1,Scheduled Maintenance,2023-07-13
+EQ-0227,Ultrasound,ICU,146.5,Yes,7.9,Operator Error,2023-03-01
+EQ-0228,X-Ray Machine,OBGYN,93.9,Yes,10.5,Mechanical Failure,2023-09-20
+EQ-0229,Ventilator,ICU,219.2,Yes,1.9,Scheduled Maintenance,2023-09-16
+EQ-0230,Ventilator,Cardiology,99.0,No,7.4,Power Outage,2023-04-14
+EQ-0231,Ultrasound,Emergency,52.9,No,11.8,Scheduled Maintenance,2023-08-02
+EQ-0232,Ventilator,Cardiology,262.4,Yes,5.6,Operator Error,2023-09-28
+EQ-0233,Ultrasound,Emergency,58.0,Yes,0.4,Unknown,2023-12-17
+EQ-0234,CT Scanner,ICU,74.9,Yes,7.3,Operator Error,2023-03-01
+EQ-0235,Ultrasound,Emergency,111.1,No,6.1,Scheduled Maintenance,2023-09-05
+EQ-0236,Ultrasound,ICU,55.0,No,12.4,Scheduled Maintenance,2023-08-09
+EQ-0237,CT Scanner,Surgery,79.9,No,2.7,Scheduled Maintenance,2023-06-11
+EQ-0238,Defibrillator,Cardiology,282.8,Yes,14.7,Power Outage,2023-01-27
+EQ-0239,Ventilator,Surgery,169.1,No,4.4,Power Outage,2023-11-20
+EQ-0240,MRI Machine,OBGYN,168.2,No,3.5,Power Outage,2023-12-11
+EQ-0241,Ventilator,ICU,160.2,Yes,7.0,Power Outage,2023-10-25
+EQ-0242,MRI Machine,ICU,139.6,No,10.6,Mechanical Failure,2023-08-28
+EQ-0243,X-Ray Machine,OBGYN,117.3,Yes,0.0,Mechanical Failure,2023-06-18
+EQ-0244,Ultrasound,Radiology,142.1,Yes,13.4,Power Outage,2023-12-23
+EQ-0245,Defibrillator,Emergency,249.9,Yes,13.4,Operator Error,2023-11-17
+EQ-0246,MRI Machine,Radiology,123.9,Yes,11.5,Mechanical Failure,2023-07-01
+EQ-0247,X-Ray Machine,Surgery,93.1,No,7.4,Operator Error,2023-09-12
+EQ-0248,MRI Machine,Radiology,204.2,No,2.2,Scheduled Maintenance,2023-06-27
+EQ-0249,X-Ray Machine,Emergency,216.1,Yes,1.8,Mechanical Failure,2023-12-03
+EQ-0250,X-Ray Machine,Emergency,292.5,No,5.7,Power Outage,2023-11-26
+EQ-0251,Ventilator,ICU,51.0,Yes,2.9,Operator Error,2023-03-20
+EQ-0252,X-Ray Machine,Emergency,95.3,No,13.3,Power Outage,2023-09-11
+EQ-0253,X-Ray Machine,Radiology,129.6,Yes,12.9,Operator Error,2023-10-02
+EQ-0254,Ultrasound,OBGYN,68.6,No,6.6,Power Outage,2023-09-15
+EQ-0255,Defibrillator,ICU,162.2,No,12.7,Operator Error,2023-07-07
+EQ-0256,Ventilator,Radiology,192.2,No,11.1,Unknown,2023-01-04
+EQ-0257,MRI Machine,OBGYN,160.4,No,5.0,Operator Error,2023-03-11
+EQ-0258,CT Scanner,Cardiology,282.1,Yes,10.8,Unknown,2023-06-30
+EQ-0259,CT Scanner,Emergency,122.6,No,1.9,Power Outage,2023-06-20
+EQ-0260,X-Ray Machine,Cardiology,84.4,No,7.5,Scheduled Maintenance,2023-01-01
+EQ-0261,Ventilator,Emergency,52.2,No,5.3,Scheduled Maintenance,2023-08-08
+EQ-0262,Defibrillator,Emergency,167.8,No,7.9,Mechanical Failure,2023-11-11
+EQ-0263,Ultrasound,Surgery,68.2,Yes,12.7,Mechanical Failure,2023-04-16
+EQ-0264,CT Scanner,Cardiology,69.4,No,9.0,Unknown,2023-04-24
+EQ-0265,Defibrillator,Cardiology,286.9,Yes,3.7,Scheduled Maintenance,2023-05-04
+EQ-0266,MRI Machine,Surgery,93.2,No,6.2,Power Outage,2023-06-08
+EQ-0267,CT Scanner,Emergency,214.9,No,13.5,Power Outage,2023-03-31
+EQ-0268,Ventilator,Surgery,95.0,Yes,5.6,Operator Error,2023-10-30
+EQ-0269,X-Ray Machine,Radiology,261.6,No,5.3,Power Outage,2023-10-08
+EQ-0270,X-Ray Machine,OBGYN,105.5,Yes,14.6,Scheduled Maintenance,2023-02-26
+EQ-0271,X-Ray Machine,OBGYN,56.5,Yes,12.5,Scheduled Maintenance,2023-11-28
+EQ-0272,Defibrillator,Radiology,274.2,Yes,4.8,Mechanical Failure,2023-09-05
+EQ-0273,MRI Machine,Radiology,92.8,Yes,9.7,Power Outage,2023-11-20
+EQ-0274,Ventilator,Surgery,183.6,No,14.8,Power Outage,2023-11-11
+EQ-0275,MRI Machine,Radiology,295.9,Yes,11.4,Unknown,2023-02-26
+EQ-0276,Ventilator,OBGYN,102.9,No,14.9,Operator Error,2023-01-10
+EQ-0277,X-Ray Machine,ICU,184.6,No,12.7,Scheduled Maintenance,2023-10-13
+EQ-0278,Defibrillator,Emergency,222.1,No,10.2,Operator Error,2023-12-05
+EQ-0279,Ultrasound,ICU,127.2,No,0.8,Mechanical Failure,2023-01-13
+EQ-0280,MRI Machine,OBGYN,249.8,No,6.7,Operator Error,2023-03-10
+EQ-0281,CT Scanner,Surgery,182.6,No,7.8,Scheduled Maintenance,2023-05-31
+EQ-0282,Ventilator,Radiology,125.3,Yes,2.2,Unknown,2023-05-14
+EQ-0283,Defibrillator,Surgery,196.4,Yes,6.7,Operator Error,2023-07-23
+EQ-0284,CT Scanner,ICU,225.1,Yes,11.3,Unknown,2023-07-03
+EQ-0285,X-Ray Machine,Surgery,236.6,Yes,0.0,Unknown,2023-11-22
+EQ-0286,CT Scanner,Radiology,97.6,No,6.8,Scheduled Maintenance,2023-01-26
+EQ-0287,Ultrasound,Cardiology,241.0,Yes,4.7,Operator Error,2023-05-23
+EQ-0288,CT Scanner,Radiology,187.4,Yes,9.0,Operator Error,2023-04-29
+EQ-0289,Ventilator,Cardiology,148.3,No,6.3,Operator Error,2023-11-05
+EQ-0290,MRI Machine,Cardiology,67.1,No,8.4,Operator Error,2023-04-26
+EQ-0291,Defibrillator,Radiology,268.9,No,5.7,Power Outage,2023-01-07
+EQ-0292,CT Scanner,ICU,273.5,Yes,3.7,Unknown,2023-10-17
+EQ-0293,Defibrillator,OBGYN,200.2,Yes,2.6,Mechanical Failure,2023-12-07
+EQ-0294,CT Scanner,ICU,98.3,No,7.0,Unknown,2023-09-07
+EQ-0295,Ventilator,Emergency,137.2,No,13.2,Unknown,2023-09-23
+EQ-0296,X-Ray Machine,Emergency,92.0,No,0.8,Power Outage,2023-02-03
+EQ-0297,Defibrillator,ICU,73.5,Yes,12.7,Power Outage,2023-02-11
+EQ-0298,MRI Machine,OBGYN,275.5,No,0.7,Power Outage,2023-01-01
+EQ-0299,X-Ray Machine,Radiology,280.8,Yes,3.5,Scheduled Maintenance,2023-07-10
+EQ-0300,Ultrasound,Emergency,244.8,No,4.0,Scheduled Maintenance,2023-08-26
+EQ-0301,CT Scanner,OBGYN,150.8,Yes,8.5,Mechanical Failure,2023-07-29
+EQ-0302,X-Ray Machine,Emergency,117.8,Yes,9.6,Power Outage,2023-12-18
+EQ-0303,Ventilator,OBGYN,86.9,No,1.9,Power Outage,2023-07-09
+EQ-0304,MRI Machine,Radiology,256.5,No,6.4,Operator Error,2023-11-14
+EQ-0305,Ventilator,ICU,98.1,No,3.3,Power Outage,2023-12-06
+EQ-0306,MRI Machine,Cardiology,81.4,No,1.9,Scheduled Maintenance,2023-11-30
+EQ-0307,Defibrillator,OBGYN,299.0,No,0.1,Mechanical Failure,2023-04-13
+EQ-0308,Ventilator,Radiology,201.8,Yes,10.5,Power Outage,2023-11-17
+EQ-0309,CT Scanner,Radiology,55.9,Yes,6.4,Power Outage,2023-12-10
+EQ-0310,Defibrillator,ICU,267.7,Yes,10.1,Unknown,2023-09-20
+EQ-0311,Ventilator,Surgery,83.1,No,6.9,Power Outage,2023-07-16
+EQ-0312,CT Scanner,OBGYN,157.2,No,2.0,Operator Error,2023-10-31
+EQ-0313,Ultrasound,Cardiology,58.7,No,6.2,Unknown,2023-04-25
+EQ-0314,Ventilator,Radiology,281.4,Yes,5.7,Mechanical Failure,2023-08-07
+EQ-0315,CT Scanner,Cardiology,270.5,Yes,4.5,Unknown,2023-10-05
+EQ-0316,MRI Machine,OBGYN,70.4,Yes,0.7,Scheduled Maintenance,2023-07-08
+EQ-0317,Ventilator,Radiology,96.4,No,4.5,Mechanical Failure,2023-04-26
+EQ-0318,Ultrasound,Radiology,126.8,No,10.0,Unknown,2023-09-14
+EQ-0319,CT Scanner,Emergency,188.5,Yes,6.2,Power Outage,2023-08-02
+EQ-0320,Ultrasound,Cardiology,135.8,No,0.6,Scheduled Maintenance,2023-03-26
+EQ-0321,Ultrasound,Emergency,50.5,Yes,4.2,Operator Error,2023-01-30
+EQ-0322,Defibrillator,Surgery,153.4,No,10.5,Scheduled Maintenance,2023-08-30
+EQ-0323,Ventilator,Cardiology,289.9,No,14.2,Unknown,2023-10-21
+EQ-0324,MRI Machine,ICU,167.3,Yes,10.1,Unknown,2023-04-27
+EQ-0325,X-Ray Machine,Emergency,176.8,No,8.6,Power Outage,2023-07-02
+EQ-0326,Ventilator,OBGYN,249.3,Yes,1.0,Unknown,2023-02-02
+EQ-0327,CT Scanner,OBGYN,196.1,Yes,6.7,Operator Error,2023-05-29
+EQ-0328,Defibrillator,Emergency,138.3,No,4.7,Unknown,2023-09-27
+EQ-0329,Ultrasound,Radiology,170.6,Yes,11.8,Unknown,2023-07-02
+EQ-0330,Defibrillator,Radiology,281.3,Yes,2.9,Power Outage,2023-07-10
+EQ-0331,Defibrillator,Cardiology,249.6,No,7.0,Scheduled Maintenance,2023-05-25
+EQ-0332,Ultrasound,Surgery,240.8,No,12.1,Power Outage,2023-05-17
+EQ-0333,Defibrillator,Surgery,63.0,Yes,9.9,Power Outage,2023-07-21
+EQ-0334,X-Ray Machine,Radiology,268.3,No,10.4,Unknown,2023-12-25
+EQ-0335,X-Ray Machine,Cardiology,221.9,Yes,4.4,Power Outage,2023-11-29
+EQ-0336,Ultrasound,Surgery,67.9,No,7.1,Scheduled Maintenance,2023-12-07
+EQ-0337,MRI Machine,Cardiology,64.3,No,0.9,Operator Error,2023-10-11
+EQ-0338,X-Ray Machine,Cardiology,220.7,Yes,1.5,Scheduled Maintenance,2023-03-25
+EQ-0339,MRI Machine,Emergency,132.7,No,10.2,Operator Error,2023-12-05
+EQ-0340,Ventilator,Cardiology,284.7,Yes,7.8,Operator Error,2023-06-30
+EQ-0341,MRI Machine,Cardiology,185.4,Yes,13.6,Scheduled Maintenance,2023-05-21
+EQ-0342,Ultrasound,Radiology,119.8,No,10.0,Scheduled Maintenance,2023-08-03
+EQ-0343,Ventilator,Emergency,56.0,No,13.5,Power Outage,2023-01-25
+EQ-0344,Ultrasound,Emergency,165.6,No,7.0,Unknown,2023-09-05
+EQ-0345,Ventilator,OBGYN,264.7,No,3.0,Power Outage,2023-03-05
+EQ-0346,Ultrasound,Emergency,274.1,No,12.0,Operator Error,2023-02-21
+EQ-0347,X-Ray Machine,Radiology,263.0,Yes,9.5,Mechanical Failure,2023-06-07
+EQ-0348,MRI Machine,OBGYN,155.8,No,12.9,Power Outage,2023-02-05
+EQ-0349,MRI Machine,Emergency,199.6,Yes,14.4,Power Outage,2023-08-17
+EQ-0350,MRI Machine,Surgery,254.7,No,6.3,Mechanical Failure,2023-03-27
+EQ-0351,X-Ray Machine,Radiology,113.4,No,7.2,Mechanical Failure,2023-12-01
+EQ-0352,X-Ray Machine,Surgery,233.6,Yes,3.5,Scheduled Maintenance,2023-04-10
+EQ-0353,CT Scanner,Surgery,195.5,Yes,7.6,Mechanical Failure,2023-01-27
+EQ-0354,Ventilator,Cardiology,245.2,Yes,6.1,Scheduled Maintenance,2023-03-17
+EQ-0355,MRI Machine,OBGYN,121.1,Yes,5.4,Mechanical Failure,2023-03-10
+EQ-0356,Ventilator,Radiology,154.2,Yes,8.9,Scheduled Maintenance,2023-03-16
+EQ-0357,Ultrasound,Cardiology,199.0,No,14.4,Power Outage,2023-06-25
+EQ-0358,Defibrillator,Cardiology,55.8,No,13.2,Unknown,2023-05-24
+EQ-0359,CT Scanner,Radiology,100.7,No,4.0,Operator Error,2023-02-10
+EQ-0360,X-Ray Machine,ICU,116.3,Yes,4.8,Mechanical Failure,2023-09-02
+EQ-0361,Ultrasound,ICU,142.3,No,10.4,Operator Error,2023-11-04
+EQ-0362,CT Scanner,OBGYN,107.4,No,7.9,Operator Error,2023-07-19
+EQ-0363,Defibrillator,Emergency,289.2,Yes,12.6,Power Outage,2023-05-31
+EQ-0364,Ultrasound,Emergency,289.1,No,2.0,Scheduled Maintenance,2023-04-19
+EQ-0365,CT Scanner,Surgery,215.6,Yes,7.0,Scheduled Maintenance,2023-09-21
+EQ-0366,Defibrillator,Surgery,63.3,Yes,3.7,Scheduled Maintenance,2023-10-12
+EQ-0367,Defibrillator,Surgery,170.1,Yes,3.1,Operator Error,2023-02-06
+EQ-0368,CT Scanner,Surgery,104.0,No,2.3,Unknown,2023-05-07
+EQ-0369,Ultrasound,OBGYN,299.5,No,0.5,Power Outage,2023-12-09
+EQ-0370,X-Ray Machine,Cardiology,152.4,Yes,0.1,Operator Error,2023-03-05
+EQ-0371,Ventilator,Cardiology,233.2,Yes,0.7,Power Outage,2023-04-09
+EQ-0372,MRI Machine,Cardiology,142.1,No,5.6,Unknown,2023-03-29
+EQ-0373,MRI Machine,ICU,172.0,Yes,2.2,Power Outage,2023-11-21
+EQ-0374,Ventilator,Cardiology,51.1,No,6.8,Power Outage,2023-02-28
+EQ-0375,MRI Machine,Surgery,94.4,Yes,4.5,Scheduled Maintenance,2023-10-27
+EQ-0376,CT Scanner,OBGYN,106.7,No,4.1,Scheduled Maintenance,2023-06-16
+EQ-0377,Ultrasound,Emergency,69.7,No,0.0,Unknown,2023-10-10
+EQ-0378,Ultrasound,Cardiology,247.3,No,7.4,Operator Error,2023-02-06
+EQ-0379,X-Ray Machine,ICU,80.6,Yes,3.9,Mechanical Failure,2023-07-23
+EQ-0380,Ventilator,Radiology,110.3,Yes,11.5,Mechanical Failure,2023-08-21
+EQ-0381,Ultrasound,ICU,122.7,No,9.1,Unknown,2023-10-09
+EQ-0382,Ultrasound,Emergency,109.0,Yes,1.8,Operator Error,2023-06-29
+EQ-0383,MRI Machine,Radiology,278.8,Yes,3.8,Unknown,2023-07-20
+EQ-0384,Defibrillator,Emergency,64.4,No,14.3,Operator Error,2023-04-14
+EQ-0385,Ultrasound,Surgery,230.4,No,6.4,Power Outage,2023-06-03
+EQ-0386,Defibrillator,ICU,147.7,Yes,12.5,Power Outage,2023-12-31
+EQ-0387,X-Ray Machine,ICU,117.5,Yes,7.5,Power Outage,2023-06-24
+EQ-0388,Ultrasound,Surgery,109.4,No,6.0,Unknown,2023-07-14
+EQ-0389,MRI Machine,Cardiology,62.3,Yes,10.0,Unknown,2023-09-02
+EQ-0390,MRI Machine,Cardiology,75.8,No,13.5,Operator Error,2023-12-07
+EQ-0391,X-Ray Machine,Surgery,274.9,No,6.4,Mechanical Failure,2023-08-21
+EQ-0392,Ultrasound,ICU,202.0,Yes,2.7,Operator Error,2023-06-25
+EQ-0393,X-Ray Machine,Cardiology,242.8,Yes,1.6,Unknown,2023-05-09
+EQ-0394,Ultrasound,Surgery,96.6,Yes,2.2,Scheduled Maintenance,2023-10-28
+EQ-0395,X-Ray Machine,Radiology,181.8,Yes,4.5,Mechanical Failure,2023-11-16
+EQ-0396,Ventilator,Cardiology,270.4,No,9.9,Unknown,2023-11-05
+EQ-0397,MRI Machine,OBGYN,127.3,No,6.3,Power Outage,2023-06-04
+EQ-0398,Ultrasound,Emergency,268.6,No,4.5,Unknown,2023-11-04
+EQ-0399,X-Ray Machine,Emergency,82.3,No,9.5,Unknown,2023-01-24
+EQ-0400,X-Ray Machine,Emergency,247.8,Yes,5.5,Power Outage,2023-02-04
+EQ-0401,MRI Machine,Emergency,75.9,Yes,13.0,Operator Error,2023-11-27
+EQ-0402,MRI Machine,Emergency,185.8,No,6.3,Unknown,2023-09-23
+EQ-0403,X-Ray Machine,Surgery,164.8,Yes,14.6,Power Outage,2023-08-08
+EQ-0404,MRI Machine,Surgery,125.8,Yes,1.6,Unknown,2023-11-30
+EQ-0405,Ultrasound,OBGYN,191.1,Yes,3.3,Operator Error,2023-09-02
+EQ-0406,Defibrillator,Radiology,132.0,Yes,13.8,Operator Error,2023-08-29
+EQ-0407,MRI Machine,ICU,261.3,Yes,4.7,Power Outage,2023-12-07
+EQ-0408,Defibrillator,Cardiology,202.9,No,8.7,Unknown,2023-06-11
+EQ-0409,CT Scanner,ICU,194.9,No,8.2,Power Outage,2023-10-17
+EQ-0410,CT Scanner,Surgery,188.8,Yes,8.8,Power Outage,2023-12-19
+EQ-0411,MRI Machine,OBGYN,77.9,No,8.8,Unknown,2023-01-06
+EQ-0412,Ventilator,ICU,263.5,Yes,5.6,Unknown,2023-01-03
+EQ-0413,MRI Machine,Cardiology,139.2,Yes,10.4,Operator Error,2023-02-23
+EQ-0414,Ultrasound,Surgery,191.4,Yes,11.0,Unknown,2023-06-21
+EQ-0415,X-Ray Machine,Emergency,216.5,Yes,0.6,Mechanical Failure,2023-04-15
+EQ-0416,Ultrasound,Emergency,113.8,Yes,4.6,Operator Error,2023-12-26
+EQ-0417,MRI Machine,OBGYN,255.9,Yes,10.5,Mechanical Failure,2023-05-13
+EQ-0418,X-Ray Machine,Radiology,219.3,No,8.3,Mechanical Failure,2023-08-22
+EQ-0419,Defibrillator,Cardiology,89.0,No,13.7,Unknown,2023-12-20
+EQ-0420,Ultrasound,Surgery,113.4,No,13.5,Scheduled Maintenance,2023-04-02
+EQ-0421,Ventilator,Cardiology,96.6,Yes,14.0,Scheduled Maintenance,2023-01-21
+EQ-0422,CT Scanner,Cardiology,261.0,No,1.1,Power Outage,2023-10-01
+EQ-0423,CT Scanner,OBGYN,71.1,Yes,6.0,Power Outage,2023-06-10
+EQ-0424,X-Ray Machine,Radiology,214.1,Yes,5.9,Operator Error,2023-02-02
+EQ-0425,Ultrasound,ICU,53.9,Yes,8.1,Unknown,2023-02-25
+EQ-0426,MRI Machine,ICU,223.5,Yes,8.8,Operator Error,2023-12-08
+EQ-0427,X-Ray Machine,OBGYN,193.4,Yes,14.6,Mechanical Failure,2023-11-19
+EQ-0428,Ventilator,Emergency,182.2,Yes,8.1,Scheduled Maintenance,2023-09-10
+EQ-0429,Defibrillator,ICU,220.4,No,11.3,Mechanical Failure,2023-06-03
+EQ-0430,Ultrasound,Radiology,181.5,No,0.7,Power Outage,2023-08-24
+EQ-0431,Defibrillator,Emergency,257.8,Yes,13.7,Power Outage,2023-04-18
+EQ-0432,Defibrillator,Surgery,158.1,Yes,10.3,Operator Error,2023-10-04
+EQ-0433,Defibrillator,ICU,120.4,Yes,13.1,Mechanical Failure,2023-12-30
+EQ-0434,X-Ray Machine,Surgery,58.8,Yes,10.8,Power Outage,2023-06-03
+EQ-0435,Ventilator,Radiology,213.2,No,5.0,Unknown,2023-12-31
+EQ-0436,Ultrasound,Radiology,114.0,No,12.2,Mechanical Failure,2023-07-22
+EQ-0437,MRI Machine,ICU,77.6,Yes,11.9,Mechanical Failure,2023-01-01
+EQ-0438,Ventilator,ICU,143.3,No,8.8,Scheduled Maintenance,2023-11-03
+EQ-0439,CT Scanner,Surgery,210.9,Yes,0.9,Operator Error,2023-12-28
+EQ-0440,Ultrasound,OBGYN,223.8,Yes,11.2,Operator Error,2023-06-12
+EQ-0441,Ultrasound,OBGYN,260.6,Yes,3.1,Operator Error,2023-04-13
+EQ-0442,X-Ray Machine,OBGYN,213.2,Yes,11.2,Scheduled Maintenance,2023-07-04
+EQ-0443,Defibrillator,Radiology,140.9,No,6.5,Power Outage,2023-12-16
+EQ-0444,X-Ray Machine,ICU,109.4,No,8.9,Power Outage,2023-05-18
+EQ-0445,CT Scanner,OBGYN,240.3,Yes,10.2,Power Outage,2023-02-16
+EQ-0446,Ultrasound,ICU,295.7,Yes,10.6,Unknown,2023-07-20
+EQ-0447,Ventilator,Surgery,159.7,Yes,0.6,Scheduled Maintenance,2023-03-31
+EQ-0448,Ventilator,OBGYN,252.9,No,6.7,Unknown,2023-06-23
+EQ-0449,Ultrasound,ICU,282.9,No,6.3,Unknown,2023-01-29
+EQ-0450,Ultrasound,Radiology,154.5,No,9.8,Scheduled Maintenance,2023-06-03
+EQ-0451,Ultrasound,OBGYN,256.9,No,8.6,Power Outage,2023-02-23
+EQ-0452,Defibrillator,Emergency,184.5,Yes,1.6,Unknown,2023-12-13
+EQ-0453,Defibrillator,Cardiology,206.0,No,8.6,Unknown,2023-06-27
+EQ-0454,CT Scanner,OBGYN,236.0,No,8.9,Mechanical Failure,2023-01-09
+EQ-0455,CT Scanner,OBGYN,253.5,Yes,9.5,Unknown,2023-05-04
+EQ-0456,MRI Machine,ICU,93.8,No,7.5,Unknown,2023-07-19
+EQ-0457,MRI Machine,Cardiology,77.5,No,11.5,Scheduled Maintenance,2023-11-11
+EQ-0458,CT Scanner,OBGYN,138.9,No,6.9,Scheduled Maintenance,2023-10-25
+EQ-0459,Defibrillator,Radiology,112.2,No,5.7,Unknown,2023-07-11
+EQ-0460,Ultrasound,Radiology,260.7,Yes,11.0,Mechanical Failure,2023-05-23
+EQ-0461,X-Ray Machine,Emergency,94.7,No,10.0,Operator Error,2023-07-01
+EQ-0462,X-Ray Machine,Radiology,134.9,No,1.5,Power Outage,2023-08-18
+EQ-0463,Ventilator,ICU,200.1,No,4.6,Scheduled Maintenance,2023-03-02
+EQ-0464,X-Ray Machine,ICU,83.4,Yes,8.1,Power Outage,2023-02-17
+EQ-0465,CT Scanner,ICU,93.9,Yes,0.5,Power Outage,2023-10-04
+EQ-0466,X-Ray Machine,Radiology,75.4,Yes,5.8,Unknown,2023-03-31
+EQ-0467,Ultrasound,Emergency,62.3,No,0.0,Operator Error,2023-09-02
+EQ-0468,X-Ray Machine,Surgery,113.0,No,11.9,Unknown,2023-12-20
+EQ-0469,MRI Machine,OBGYN,167.1,Yes,4.8,Operator Error,2023-08-12
+EQ-0470,X-Ray Machine,Surgery,207.7,Yes,9.9,Power Outage,2023-03-11
+EQ-0471,Ultrasound,Surgery,218.7,No,3.1,Scheduled Maintenance,2023-11-15
+EQ-0472,Ventilator,Emergency,142.9,No,5.5,Mechanical Failure,2023-12-30
+EQ-0473,X-Ray Machine,Cardiology,234.4,No,7.4,Unknown,2023-10-26
+EQ-0474,Ventilator,OBGYN,104.1,No,9.6,Power Outage,2023-09-26
+EQ-0475,X-Ray Machine,Cardiology,144.6,No,11.1,Power Outage,2023-03-09
+EQ-0476,MRI Machine,Surgery,187.2,No,1.7,Power Outage,2023-08-21
+EQ-0477,CT Scanner,OBGYN,257.9,Yes,1.8,Unknown,2023-10-16
+EQ-0478,Defibrillator,Surgery,193.6,No,10.4,Mechanical Failure,2023-09-23
+EQ-0479,CT Scanner,ICU,117.5,Yes,6.6,Power Outage,2023-12-03
+EQ-0480,MRI Machine,Radiology,157.4,Yes,10.0,Mechanical Failure,2023-05-23
+EQ-0481,X-Ray Machine,Surgery,145.3,Yes,12.1,Scheduled Maintenance,2023-06-23
+EQ-0482,CT Scanner,Emergency,292.5,No,12.8,Operator Error,2023-09-29
+EQ-0483,Defibrillator,Emergency,228.0,Yes,11.6,Operator Error,2023-12-25
+EQ-0484,Ultrasound,Emergency,228.6,Yes,14.5,Power Outage,2023-05-28
+EQ-0485,Defibrillator,ICU,148.5,Yes,2.7,Unknown,2023-08-14
+EQ-0486,CT Scanner,Emergency,73.2,No,5.1,Power Outage,2023-03-11
+EQ-0487,MRI Machine,Cardiology,89.5,Yes,11.1,Operator Error,2023-02-17
+EQ-0488,MRI Machine,Cardiology,218.0,No,11.4,Unknown,2023-04-06
+EQ-0489,X-Ray Machine,Radiology,205.5,Yes,6.0,Unknown,2023-01-06
+EQ-0490,CT Scanner,OBGYN,232.3,Yes,12.8,Power Outage,2023-12-25
+EQ-0491,Ultrasound,OBGYN,96.3,No,12.0,Scheduled Maintenance,2023-08-09
+EQ-0492,MRI Machine,OBGYN,277.2,Yes,1.1,Scheduled Maintenance,2023-01-04
+EQ-0493,X-Ray Machine,Surgery,181.0,Yes,12.1,Scheduled Maintenance,2023-02-23
+EQ-0494,CT Scanner,ICU,203.0,Yes,1.8,Mechanical Failure,2023-03-12
+EQ-0495,MRI Machine,ICU,52.3,Yes,14.2,Unknown,2023-08-13
+EQ-0496,X-Ray Machine,Surgery,60.4,Yes,1.0,Unknown,2023-06-02
+EQ-0497,Defibrillator,Emergency,183.4,Yes,11.7,Unknown,2023-01-26
+EQ-0498,Ultrasound,Radiology,224.6,Yes,11.2,Mechanical Failure,2023-01-25
+EQ-0499,X-Ray Machine,Cardiology,230.4,No,8.1,Mechanical Failure,2023-09-12
+EQ-0500,Ventilator,ICU,77.9,Yes,11.8,Operator Error,2023-06-08
